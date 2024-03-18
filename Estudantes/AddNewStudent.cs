@@ -1,0 +1,1 @@
+public record newEstudante(string name);

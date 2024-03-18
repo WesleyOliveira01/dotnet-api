@@ -1,0 +1,1 @@
+public record UpdateStudent(string nome, bool active);
